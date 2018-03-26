@@ -1,0 +1,17 @@
+### Maven ###
+/lib
+.DS_Store
+
+### Docker ###
+.env
+
+### Git ###
+gitCredentialStore
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
